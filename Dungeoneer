@@ -1,7 +1,7 @@
 var dungeons = [0, 1, 2];
 var infiniteDungeonIndex = 2;
 var EnemyLineUpCurrDungeon = [];
-var DungeonLengths = [1, 8, 1]; //6, 8
+var DungeonLengths = [6, 6, 8]; //6, 6
 var uiElements = ["button_bag", "img_equippedwpn", "button_attack", "button_block", "ui_background", "img_heart","text_health", "text_equipped_wpn"]
 var selector = ["sel_up", "sel_down", "sel_left", "sel_right"];
 var selStep1x = ["210", "210", "210", "302"]; var selStep1y = ["305", "435", "313", "313"];
